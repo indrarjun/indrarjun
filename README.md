@@ -18,13 +18,13 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :</h3>
 <p align="left">
-<a href="https://kaggle.com/pumpkin18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pumpkin18" height="30" width="40" /></a>
-<a href="https://medium.com/@indrarjun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@indrarjun" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/rabbit18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rabbit18" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/virinchi18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="virinchi18" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rabbit18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rabbit18" height="30" width="40" /></a>
+<a href="https://kaggle.com/pumpkin18" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pumpkin18" height="30" width="40" /></a>
+<a href="https://medium.com/@indrarjun" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@indrarjun" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/rabbit18" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rabbit18" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/virinchi18" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="virinchi18" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rabbit18" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rabbit18" height="30" width="40" /></a>
 </p>
 
 ____
@@ -76,6 +76,3 @@ _____
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=indrarjun&show_icons=true&locale=en" alt="indrarjun" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indrarjun&" alt="indrarjun" /></p>
-<div align="center">
-  <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="500"/>
-</div>
